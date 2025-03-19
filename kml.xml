@@ -21,7 +21,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<PolyStyle>
-			<color>CC0000FF</color>  <fill>1</fill>
+			<color>330000FF</color>  <fill>1</fill>
 			<outline>1</outline>
 			<color>FF000000</color> 
 		</PolyStyle>
@@ -35,7 +35,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<PolyStyle>
-			<color>CC0000FF</color>  <fill>1</fill>
+			<color>330000FF</color>  <fill>1</fill>
 			<outline>1</outline>
 			<color>FF000000</color> 
 		</PolyStyle>
