@@ -20,6 +20,11 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
+		<PolyStyle>
+			<color>B30000FF</color>  <fill>1</fill>
+			<outline>1</outline>
+			<color>FF000000</color> 
+		</PolyStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl">
 		<IconStyle>
@@ -29,6 +34,11 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
+		<PolyStyle>
+			<color>B30000FF</color>  <fill>1</fill>
+			<outline>1</outline>
+			<color>FF000000</color> 
+		</PolyStyle>
 	</Style>
 	<Placemark>
 		<name>Letter R</name>
